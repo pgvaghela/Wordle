@@ -89,3 +89,4 @@ A Python implementation of the popular Wordle game with a modern GUI and diction
 Enjoy playing Wordle! 🎮
 # Enhanced error handling and performance improvements
 # Add comprehensive word validation and filtering
+# Fix invalid word filtering and improve user experience
